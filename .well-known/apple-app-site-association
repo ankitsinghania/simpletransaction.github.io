@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "your appID and bundle identifier",
+                "paths": ["*", "/*"]
+            }
+        ]
+    }
+}
